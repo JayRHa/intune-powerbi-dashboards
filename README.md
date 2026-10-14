@@ -59,3 +59,7 @@ This project is available under the terms in [LICENSE](LICENSE).
 
 [Articles and guides](https://jannikreinhard.com/) · [Repository index](https://github.com/JayRHa/.github/blob/main/REPOSITORIES.md)
 <!-- jr-brand-footer:end -->
+
+## Refresh troubleshooting
+
+See the [refresh and compliance troubleshooting guide](docs/troubleshooting.md) for duplicate-key relationships, `0x80040E4E` diagnosis and per-setting compliance details. The guide does not imply the PBIX has been rebuilt or tenant-tested.
