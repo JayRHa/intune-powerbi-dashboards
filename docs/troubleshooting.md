@@ -43,5 +43,5 @@ This requires a separate authenticated Graph data source (and pagination), appro
 
 - [Power BI relationship cardinality and filtering](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-relationships-understand)
 - [Intune warehouse device and enrollment entities](https://learn.microsoft.com/en-us/intune/developer/data-warehouse/ref-devices)
-- [Graph policy-state settingStates](https://learn.microsoft.com/en-us/graph/api/intune-deviceconfig-devicecompliancepolicysettingstate-list?view=graph-rest-1.0)
+- [Microsoft example of per-device policy and setting queries](https://learn.microsoft.com/en-us/answers/questions/1222234/intune-compliance-status-api-integration-with-clea)
 - [Graph setting-state fields](https://learn.microsoft.com/en-us/graph/api/resources/intune-deviceconfig-devicecompliancepolicysettingstate?view=graph-rest-1.0)
